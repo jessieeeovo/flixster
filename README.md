@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/eAVwFZ5.gif" width=250><br>
+<img src="https://i.imgur.com/U7T7NRv.gif" width=250><br>
 
 ---
 
@@ -36,11 +36,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 Run on a real device (iPhone 11):
 
-<img src='https://i.imgur.com/eeAp9xQ.gif' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/eeAp9xQ.gif' width=250 alt='Video Walkthrough' />
 
 Run on iPhone 12 Pro Max and iPhone 8 simulators:
 
-<img src='https://i.imgur.com/JQTtdwj.gif' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/JQTtdwj.gif' width=250 alt='Video Walkthrough' />
 
 ### Notes
 Installing AlamofireImage took me loooong time
